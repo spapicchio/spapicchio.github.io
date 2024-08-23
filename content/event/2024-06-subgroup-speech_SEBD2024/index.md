@@ -38,7 +38,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/elianap
+    url: https://twitter.com/eliana__pastor
 url_pdf: 'https://ceur-ws.org/Vol-3741/paper64.pdf'
 url_slides: 'subgroup-speech_SEBD2024.pdf'
 

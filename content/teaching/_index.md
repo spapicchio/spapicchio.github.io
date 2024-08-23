@@ -36,7 +36,7 @@ comments: false  # Show comments?
 
 I am co-supervising the activities of two PhD students at Politecnico di Torino (main advisor: Elena Baralis):
 
-- **Alkis Koudounas**. He is a second-year Ph.D student. His current research focuses on spoken language understanding, speech processing and explainable AI. He is involve in  a joint project with Amazon Alexa AI. His interest also lies in the development ofresources for under-represented languages. Heserves as Italian Language Ambassador for the AYA Cohere4AI project.
+- **Alkis Koudounas**. He is a second-year Ph.D student. His current research focuses on spoken language understanding, speech processing and explainable AI. He is involve in  a joint project with Amazon Alexa AI. His interest also lies in the development of resources for under-represented languages. He serves as Italian Language Ambassador for the AYA Cohere4AI project.
 
 - Eleonora Poeta. She is 1rst year PhD student working on Trustworthy AI, with a focus on Explainable AI and Safety. 
 

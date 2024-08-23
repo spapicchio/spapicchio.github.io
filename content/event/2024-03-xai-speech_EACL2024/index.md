@@ -35,7 +35,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/elianap
+    url: https://twitter.com/eliana__pastor
 url_code: 'https://github.com/elianap/SpeechXAI'
 url_pdf: '../uploads/2024.eacl-long.136.pdf'
 url_slides: 'xai-speech_EACL2024.pdf'
