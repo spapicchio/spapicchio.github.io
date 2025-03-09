@@ -35,8 +35,8 @@ interests:
 education:
   - area: Double PhD in NLP and Databases
     institution: Politecnico di Torino, Turin, Italy & EURECOM, Sophia Antipolis France
-    date_start: 2023-04
-    date_end: 2026-12
+    date_start: 2023-04-01
+    date_end: 2026-12-31
     summary: |
       Supervised by [Prof Paolo Papotti](https://scholar.google.com/citations?user=YwoezYX7JVgJ&hl=en) and [Prof Luca Cagliero](https://scholar.google.it/citations?user=0uIAXl8AAAAJ&hl=it).
     # button:
@@ -44,15 +44,15 @@ education:
     #   url: 'https://example.com'
   - area: Double MSc in Data Science and Engineering
     institution: Politecnico di Torino, Turin, Italy & EURECOM, Sophia Antipolis France
-    date_start: 2020-09
-    date_end: 2020-04
+    date_start: 2020-09-01
+    date_end: 2020-04-30
     summary: |
       GPA: 4.0/4.0 cum Laude
       - Recipient of the double master’s degree program offered by Erasmus+ and supported by full scholarship.
   - area: BSc in Computer Engineer
     institution: Politecnico di Torino, Turin, Italy
-    date_start: 2017-09
-    date_end: 2020-07
+    date_start: 2017-09-01
+    date_end: 2020-07-31
     summary: |
       GPA: 4.0/4.0
       - Recipient of the Young Talent Program, top 3% of students. Supported by full scholarship. 
@@ -63,8 +63,8 @@ work:
     company_name: Megagon Labs, Mountain View, California, USA
     company_url: 'https://megagon.ai/'
     company_logo: ''
-    date_start: 2024-06
-    date_end: 2024-08
+    date_start: 2024-06-01
+    date_end: 2024-08-31
     summary: |2-
       References: [sajjadur@megagon.ai](sajjadur@megagon.ai), [estevam@megagon.ai](estevam@megagon.ai)
       Megagon Labs is an innovation hub within the Recruit group, focusing on cutting-edge research in AI, data management, and NLP. The internship project focuses on building an advanced observability engine for generating benchmarks for complex multi-source and multi-modal (Document, SQL Database, Knowledge Graph) knowledge-intensive Question Answering (QA) tasks.
@@ -74,8 +74,8 @@ work:
     company_name: Intesa Sanpaolo Spa, Turin, Italy
     company_url: 'https://www.intesasanpaolo.com/'
     company_logo: ''
-    date_start: 2023-10
-    date_end: 2024-10
+    date_start: 2023-10-01
+    date_end: 2024-10-31
     summary: |
       Project coordinator [Luca Cagliero](luca.caglier@polito.it).
       Intesa Sanpaolo S.p.A. is an Italian international banking group. By total assets, it is Italy's largest bank and the world's 27th largest. 
@@ -86,8 +86,8 @@ work:
     company_name: Toyota Motor Europe (TME) R&D department, Brussels, Belgium
     company_url: 'https://www.toyota-europe.com/'
     company_logo: ''
-    date_start: 2022-07
-    date_end: 2023-01
+    date_start: 2022-07-31
+    date_end: 2023-01-31
     summary: |
       References: [nikos.symeonidis@toyota-europe.com](nikos.symeonidis@toyota-europe.com), [shota_nagano@mail.toyota.co.jp](shota_nagano@mail.toyota.co.jp) 
       Joined TME to write the master’s thesis: “Maximizing the Voice of the Customer with NLP: A Tool to Detect Insights with Sentiment Analysis and Named Entity Recognition”. TME uses the tool implemented with PyTorch Lightning to conduct a real-time Voice of the Customer (VoC) analysis. The results are shown in several Tableau dashboards.
@@ -98,8 +98,8 @@ work:
     company_name: AIKO - Infinite ways to autonomy, Turin, Italy
     company_url: 'https://aikospace.com/'
     company_logo: ''
-    date_start: 2020-02
-    date_end: 2020-07
+    date_start: 2020-02-01
+    date_end: 2020-07-31
     summary: |
       Reference: [info@aikospace.com](info@aikospace.com)
       AIKO is a deep tech software company specialized in the design and development of Artificial Intelligence for the automation of space missions. 
