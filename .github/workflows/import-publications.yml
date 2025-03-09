@@ -6,7 +6,7 @@ permissions:
   contents: write
   pull-requests: write
 
-# Run workflow when a `.bib` file is added or updated in the `data/` folder
+# Run workflow when a `.bib` file is added or updated or manually triggered
 on:
   push:
     branches: ['main']
@@ -31,9 +31,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install academic==0.10.0
       - name: Run Academic (Bibtex To Markdown Converter)
-        # Check `.bib` file exists for case when action runs on `.bib` deletion
-        # Note GH only provides hashFiles func in `steps.if` context, not `jobs.if` context
-        if: ${{ hashFiles('publications.bib') != '' }}
+        # Only check if file exists when triggered by push event, not for manual workflow_dispatch
+        if: ${{ github.event_name == 'workflow_dispatch' || hashFiles('publications.bib') != '' }}
         run: academic import publications.bib content/publication/ --compact
       - name: Create Pull Request
         # Set ID for `Check outputs` stage
