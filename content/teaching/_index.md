@@ -14,39 +14,15 @@ comments: false  # Show comments?
 #  image: "./teaching.jpeg"
 ---
 
-## Course holder - 2023/2024
-
-- Explainable and Trustworthy AI - MSc (2023/2024)
-- Business Intelligence per i Big Data - MSc (2023/2024)
-- Data mining concepts and algorithms - PhD corse (2023/2024)
-
 ## Teaching assistant
-- Dati, algoritmi e le frontiere dell'informatica - BSc (2023/2024)
-- Data science and database technology - MSc (2018/2019, 2019/2020, 2020/2021, 2021/2022, 2022/2023)
-- Business intelligence per big data - MSc (2022/2023)
-- Transport systems and data analytics - MSc (2022/2023)
-- Data management and visualization (2019/2020, 2020/2021, 2021/2022)
-- Big Data - MSc (2018/2019)
-- Basi dati - BSc (2019/2020)
+- Databases and Management Systems - MSc (2024/2025)
+- Distributed architectures for big data processing and analytics - MSc (2023/2024)
+- Data science lab: process and methods - MSc (2023/2024)
 ---
-
-# Supervision
-
-## Phd Supervisor
-
-I am co-supervising the activities of two PhD students at Politecnico di Torino (main advisor: Elena Baralis):
-
-- **Alkis Koudounas**. He is a second-year Ph.D student. His current research focuses on spoken language understanding, speech processing and explainable AI. He is involve in  a joint project with Amazon Alexa AI. His interest also lies in the development of resources for under-represented languages. He serves as Italian Language Ambassador for the AYA Cohere4AI project.
-
-- Eleonora Poeta. She is 1rst year PhD student working on Trustworthy AI, with a focus on Explainable AI and Safety. 
-
 ## Master Thesis Supervisor
 
-I supervised and co-supervised the thesis of several Master Degree students at Politecnico di Torino:
+I co-supervised the thesis/Semester-Project of several Master Degree students at Politecnico di Torino & EURECOM, Sophia Antipolis:
 
-- Enrico Porcelli 
-- Damiano Bonaccorsi
-- Simone Lo Truglio
-- Nicola Maddalozzo
-- Giuseppe Concialdi (co-supervision)
-- ..
+-  Cristian Degni & Francesco Giannuzzo (EURECOM)
+-  Ali Yassine (Politecnico di Torino)
+-  Alessandro Mosca (Politecnico di Torino)
